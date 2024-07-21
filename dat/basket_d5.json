@@ -1,0 +1,25 @@
+{
+    "reference price": 3.1,
+    "model type": "bs",
+    "model size": 5,
+    "strike": -100.0,
+    "spot": [
+        100.0
+    ],
+    "maturity": 1.0,
+    "volatility": [
+        0.2
+    ],
+    "interest rate": 0.05,
+    "correlation": 0.2,
+    "dividend rate": [
+        0.0
+    ],
+    "option type": "basket",
+    "payoff coefficients": [
+        -0.2
+    ],
+    "dates": 10,
+    "MC iterations": 100000,
+    "degree for polynomial regression": 3
+}

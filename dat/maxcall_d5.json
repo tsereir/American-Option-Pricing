@@ -1,0 +1,25 @@
+{
+    "reference price": 25.96,
+    "model type": "bs",
+    "model size": 5,
+    "strike": 100.0,
+    "spot": [
+        100.0
+    ],
+    "maturity": 3.0,
+    "volatility": [
+        0.2
+    ],
+    "interest rate": 0.05,
+    "correlation": 0.0,
+    "dividend rate": [
+        0.1
+    ],
+    "option type": "bestof",
+    "payoff coefficients": [
+        1.0
+    ],
+    "dates": 9,
+    "MC iterations": 100000,
+    "degree for polynomial regression": 3
+}
